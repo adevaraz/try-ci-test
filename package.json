@@ -1,0 +1,22 @@
+{
+  "name": "try-ci",
+  "version": "1.0.0",
+  "description": "for learning ci in js",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adevaraz/try-ci-test.git"
+  },
+  "author": "adevaraz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adevaraz/try-ci-test/issues"
+  },
+  "homepage": "https://github.com/adevaraz/try-ci-test#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
